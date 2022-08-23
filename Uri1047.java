@@ -22,5 +22,5 @@ public class Uri1047 {
 		}
 
 	}
-	System.out.printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)", totalHoras, totalMinutos);
+	
 }

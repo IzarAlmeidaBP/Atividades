@@ -16,7 +16,7 @@ public class ListaRepeticao009 {
 				lastAge = age;
 				newestName = name;
 			}}
-			System.out.println("o mais novo é "+newestName+" , ele possui "+  lastAge);
+			System.out.println("o mais novo e "+newestName+" , ele possui "+  lastAge);
 			
 			
 			
